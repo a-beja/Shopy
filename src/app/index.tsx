@@ -6,6 +6,7 @@ export default function Index() {
       <Text className="text-xl font-bold text-blue-500">
         Welcome to Nativewind!
       </Text>
+      <Text style={{ fontFamily: "WorkSans-Light"}}>Welcome to Nativewind!</Text>
     </View>
   );
 }
