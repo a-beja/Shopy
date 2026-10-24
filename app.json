@@ -33,6 +33,16 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/WorkSans-Black.ttf",
+            "./assets/fonts/WorkSans-Light.ttf",
+            "./assets/fonts/WorkSans-Medium.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
