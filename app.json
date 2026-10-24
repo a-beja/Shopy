@@ -34,14 +34,16 @@
           "imageWidth": 76
         }
       ],
-      "expo-expo-font",
-      {
-        "fonts": [
-          "./assets/fonts/WorkSans-Black.ttf",
-          "./assets/fonts/WorkSans-Light.ttf",
-          "./assets/fonts/WorkSans-Medium.ttf",
-        ]
-      },
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/WorkSans-Black.ttf",
+            "./assets/fonts/WorkSans-Light.ttf",
+            "./assets/fonts/WorkSans-Medium.ttf"
+          ]
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true,
