@@ -6,7 +6,9 @@ export default function Index() {
       <Text className="text-xl font-bold text-blue-500">
         Welcome to Nativewind
       </Text>
-      <Text className="font-work-medium">Welcome to Nativewind</Text>
+      <Text className="font-work-black text-primary">Welcome to Nativewind</Text>
+      <Text className="font-work-medium text-secondary-100">Welcome to Nativewind</Text>
+      <Text className="font-work-light">Welcome to Nativewind</Text>
     </View>
   );
 }
